@@ -1,4 +1,5 @@
 """
+
 frontend/app.py
 ----------------
 Upsolvers — complete Streamlit UI.
